@@ -10,22 +10,22 @@
 
 - **Сертификаты, Аттестации, Курсы повышения квалификации**:
     
-    2024 - [ Автоматизация тестов для REST API при помощи Postman](http://cert.software-testing.ru/413421443473211978)
+    2024 - <a href="http://cert.software-testing.ru/413421443473211978" target="_blank">Автоматизация тестов для REST API при помощи Postman</a>
 
-    2024 - [ Автоматизация тестирования REST API на Python](https://cert.software-testing.ru/412660211414729281)
-  
-    2024 - [ Организация автоматизированного тестирования](https://qaschool.ru/school-center/certificate.php?id=24414)
+    2024 - <a href="https://cert.software-testing.ru/412660211414729281" target="_blank">Автоматизация тестирования REST API на Python</a>
+    
+    2024 - <a href="https://qaschool.ru/school-center/certificate.php?id=24414" target="_blank">Организация автоматизированного тестирования</a>
 
-    2022 - [ Школа тест-менеджеров v. 2.0 ](https://qaschool.ru/school-center/certificate.php?id=23096)
+    2022 - <a href="https://qaschool.ru/school-center/certificate.php?id=23096" target="_blank">Школа тест-менеджеров v. 2.0 </a>
 
-    2019 - [ GASQ Service GmbH, ISTQB - Certified Tester Foundation Level Syllabus 2011 Version](http://scr.istqb.org/),  №68749
+    2019 - <a href="http://scr.istqb.org/" target="_blank">GASQ Service GmbH, ISTQB - Certified Tester Foundation Level Syllabus 2011 Version</a>,  №68749
 
-    2017 - [ Техники и инструменты поиска и локализации дефектов ](https://cert.software-testing.ru/nlo/konishchevatatiana.pdf)
-  
-    2015 - [ Школа тест-аналитика](https://qaschool.ru/school-center/certificate.php?id=13102)
+    2017 - <a href="https://cert.software-testing.ru/nlo/konishchevatatiana.pdf" target="_blank">Техники и инструменты поиска и локализации дефектов</a>
+    
+    2015 - <a href="https://qaschool.ru/school-center/certificate.php?id=13102" target="_blank"> Школа тест-аналитика</a>
 
 
 ## Используемый стек технологий и инструментов
 
-|                Postman               |                Swagger             |                SQL                  |                Python               |                Python               |                Python               |                Python               |                Python               |                Python               |                Python               |                Python               |                Python               |       
-|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|
+|                Postman              |                 Swagger             |                  SQL                |                  Elk                |                  Git                |                Allure               |               Confluence          |                  Jira                |                Zephyr               |                 TFS                 |              Charles               |                Python               |       
+|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:---------------------------------:|:------------------------------------:|:-----------------------------------:|:-----------------------------------:|:----------------------------------:|:-----------------------------------:|
