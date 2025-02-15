@@ -1,6 +1,3 @@
-<h1 align="left"> Конищева Татьяна - <a href="https://t.me/Tsarine" target="_blank">@Tsarine</a></h1>
-
-
 ##  Обо мне 
 Инженер по ручному тестированию с более чем 9-летним опытом в веб-, десктоп- и API-приложениях
 
@@ -29,4 +26,4 @@
 
 |                Postman              |                 Swagger             |                  SQL                |                  Elk                |                  Git                |                Allure               |               Confluence          |                  Jira                |                Zephyr               |                 TFS                 |              Charles               |                Python               |       
 |:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:-----------------------------------:|:---------------------------------:|:------------------------------------:|:-----------------------------------:|:-----------------------------------:|:----------------------------------:|:-----------------------------------:|
-|<img src="sources/Postman.svg" height="45" width="45" />|<img src="sources/Swagger.svg" height="45" width="45" />|<img src="sources/sql-database-generic-svgrepo-com.svg" height="45" width="45" />|<img src="sources/elasticsearch-logo-svgrepo-com.svg" height="45" width="45" />|<img src="sources/git-original.svg" height="45" width="45" />|<img src="sources/allure.svg" height="45" width="45" />|<img src="sources/confluence-svgrepo-com.svg" height="45" width="45" />|
+|<img src="sources/Postman.svg" height="45" width="45" />|<img src="sources/Swagger.svg" height="45" width="45" />|<img src="sources/sql-database-generic-svgrepo-com.svg" height="45" width="45" />|<img src="sources/elasticsearch-logo-svgrepo-com.svg" height="45" width="45" />|<img src="sources/git-original.svg" height="45" width="45" />|<img src="sources/allure.svg" height="45" width="45" />|<img src="sources/confluence-svgrepo-com.svg" height="45" width="45" />|<img src="sources/atlassian-svgrepo-com.svg" height="45" width="45" />|<img src="sources/Zephyr_logo_r_color_negative_big.svg" height="100" width="100" />|<img src="sources/icons8-visual-studio-code.svg" height="45" width="45" />|<img src="sources/charles_icon.svg" height="45" width="45" />|<img src="sources/python-original.svg" height="45" width="45" />|
