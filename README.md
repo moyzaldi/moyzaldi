@@ -13,7 +13,7 @@
     
     2024 - <a href="https://qaschool.ru/school-center/certificate.php?id=24414" target="_blank">Организация автоматизированного тестирования</a>
 
-    2022 - <a href="https://qaschool.ru/school-center/certificate.php?id=23096" target="_blank">Школа тест-менеджеров v. 2.0 </a>
+    2022 - <a href="https://qaschool.ru/school-center/certificate.php?id=23096&type=license" target="_blank">Школа тест-менеджеров v. 2.0 </a>
 
     2019 - <a href="http://scr.istqb.org/" target="_blank">GASQ Service GmbH, ISTQB - Certified Tester Foundation Level Syllabus 2011 Version</a>,  №68749
 
